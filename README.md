@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Front End Web Development Technologies
 - 💞️ I’m looking to land my first role in software development!
-- 📫 Contact me - brodymileham@hotmail.com
+- 📫 Contact me - brodymileham@hotmail.com or find me at www.brodymileham.com
 
 <!---
 brodymileham/brodymileham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
